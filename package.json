@@ -1,0 +1,19 @@
+{
+  "name": "aws_dynamodb",
+  "version": "1.0.0",
+  "description": "How to use dynamoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabuooo/aws_dynamodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tabuooo/aws_dynamodb/issues"
+  },
+  "homepage": "https://github.com/tabuooo/aws_dynamodb#readme"
+}
