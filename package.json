@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tabuooo/aws_dynamodb/issues"
   },
-  "homepage": "https://github.com/tabuooo/aws_dynamodb#readme"
+  "homepage": "https://github.com/tabuooo/aws_dynamodb#readme",
+  "dependencies": {
+    "aws-sdk": "^2.205.0"
+  }
 }
